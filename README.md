@@ -1,6 +1,6 @@
 ## 👋¡Hi everyone!👋
 
-My name is Antonella, I am a Telecommunications Engineer 👨‍💻 passionate about the world of data analysis. I'm on my way to becoming a Data Engineer so I am studying hard to improve my skills and expand my knowledge 🚀
+My name is Antonella, I'm Telecommunications Engineer 👨‍💻 passionate about the world of data analysis. I'm on my way to becoming a Data Engineer so I am studying hard to improve my skills and expand my knowledge 🚀
 
 💡 &nbsp;I’m interested in Big Data 📊 \
 🌱 &nbsp;I’m currently learning about Cloud Architecture on Azure and AWS.\
